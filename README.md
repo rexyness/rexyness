@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rexyness
-- 👀 I’m interested in Mobile Dev 
-- 🌱 I’m currently learning NestJS
-- 💞️ I’m looking to collaborate on a mobile application using flutter and any NodeJS based framework for the backend
+- They call me the wanderer
+- Yeah, the wanderer 
+- I roam around, around around around around around
 
 <!---
 rexyness/rexyness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
